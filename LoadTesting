@@ -1,0 +1,8 @@
+Jmeter
+—————————————
+
+cd path
+pwd
+cd bin
+pwd
+sh jmeter.sh
